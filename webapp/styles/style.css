@@ -1,0 +1,17 @@
+body {
+  color: #2F3E46;
+}
+
+
+[class*="col"] {
+  padding: 1rem;
+  background-color: #636363ff;
+}
+
+/* $granite-gray: #636363ff;
+#494850
+#978897
+2F3E46
+$lemon-meringue: #faedcaff;
+$tea-green: #c1dbb3ff;
+$dark-sea-green: #7ebc89ff; */
